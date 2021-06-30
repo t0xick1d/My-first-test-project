@@ -1,0 +1,120 @@
+// .btnstyle {
+//     position: relative;
+//     height: 250px;
+//     width: 300px;
+//     margin-top: 2em;
+//     margin-left: 10px;
+//     color: #ff90be;
+//     background-color:#2c0000;
+// }  
+// .btnstyle h5{
+//     color: #ff90be;
+//     background-color: #ff0000;
+
+// }  
+// .cardCake{
+//     display: block;
+//     border-radius: 1em;
+//     margin-right: 20em;
+//     padding-bottom: 1200;
+    
+// }
+// .Button{
+//     background-color: #2c0000;
+// }
+.card{
+    margin-top: 0.5em;
+    display: inline-flex;
+    
+    width: 535px;
+   
+    
+}
+
+
+.cont{
+    
+    border-radius: 1px solid red;
+    margin-top: -13em;
+    margin-left: 35em;
+    margin-bottom: 30em;
+    padding-bottom: 50em;
+}
+.card img{
+    display: inline-block;
+    clear: none;
+    width: 250px;
+    height: 200px;
+    border-radius: 8%;
+
+}
+.title{
+    display: block;
+    color: #ff90be;
+    
+   
+
+    
+}
+.text{
+    
+    display: block;
+    color: #ff90be;
+    
+   
+    
+
+}
+.card Button{
+    color: #ff90be;
+    display: block;
+    
+    background-color: #2c0000;
+    border: #2c0000;
+}
+.card Button:focus,
+.card Button:hover{
+    color: #ff90be;
+     border-color: currentColor;
+     background-color: white;
+}
+.card Button:active{
+   
+    background-color: none;
+
+}
+.inf{
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+}
+.menu {
+    color: #ff90be;
+    background-color:#2c0000;
+    position: relative;
+    margin-top: 1em;
+    margin-left: 5em;
+    z-index: 3;
+}
+.menu Button:active{
+   
+    background-color: none;
+
+}
+.menu Button:hover,
+.menu Button:focus {
+  color: #ff90be;
+  border-color: currentColor;
+  background-color: white;
+  
+}
+
+.menu Button {
+    background-color:#2c0000;
+    color: #ff90be;
+    border:#2c0000;
+}
+
+h5{
+    text-align: center;
+}

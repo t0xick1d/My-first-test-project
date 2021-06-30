@@ -1,0 +1,35 @@
+{
+    "wedding cake":[
+        {
+            "id":"1",
+            "name":"Каприз",
+            "price":"От 800 грн/кг",
+            "img":"http://www.karlson-cake.com/wp-content/uploads/2018/03/Kapriz.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Расвет",
+            "price":"От 800 грн/кг",
+            "img":"http://www.karlson-cake.com/wp-content/uploads/2018/03/Rassvet-400x400.jpg"
+        },
+        {
+            "id":"3",
+            "name":"Расдость",
+            "price":"От 800 грн/кг",
+            "img":"http://www.karlson-cake.com/wp-content/uploads/2018/02/wafe2-400x400.jpg"
+        },
+        {
+            "id":"4",
+            "name":"Ягодное наслаждение",
+            "price":"От 800 грн/кг",
+            "img":"http://www.karlson-cake.com/wp-content/uploads/2018/02/11%D0%B91-400x400.jpg"
+        },
+        {
+            "id":"5",
+            "name":"Пастель",
+            "price":"От 800 грн/кг",
+            "img":"http://www.karlson-cake.com/wp-content/uploads/2018/02/1%D0%B91-400x400.jpg"
+        }
+
+    ]
+}
